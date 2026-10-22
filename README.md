@@ -57,7 +57,9 @@ Pełny opis ograniczeń wraz z uzasadnieniem — w notebooku, w dedykowanych sek
 ├── Projekt_Retencja.ipynb    # główny notebook z pełną analizą
 ├── README.md
 ```
+## Author
 
+**Adam Płonkiewicz** – [LinkedIn](https://www.linkedin.com/in/adam-p%C5%82onkiewicz-762ab124a/)
 ## Technologie
 
 Python, pandas, numpy, matplotlib, seaborn, statsmodels, scipy, re
