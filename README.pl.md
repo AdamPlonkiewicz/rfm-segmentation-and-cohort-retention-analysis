@@ -1,3 +1,4 @@
+[🇬🇧 English](README.md) | 🇵🇱 Polski
 # Customer Segmentation & Retention Analysis — Online Retail II
 
 Analiza zachowania klientów sklepu internetowego na podstawie danych transakcyjnych z lat 2009–2011, łącząca segmentację RFM z analizą kohortową retencji.
