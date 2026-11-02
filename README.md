@@ -1,3 +1,5 @@
+🇬🇧 English | [🇵🇱 Polski](README.pl.md)
+
 # Customer Segmentation & Retention Analysis — Online Retail II
 
 An analysis of online store customer behavior based on transactional data from 2009–2011, combining RFM segmentation with cohort-based retention analysis.
@@ -57,6 +59,9 @@ A full description of the limitations, with justification, is available in dedic
 ├── Projekt_Retencja.ipynb    # main notebook with the full analysis
 ├── README.md
 ```
+## Author
+
+**Adam Płonkiewicz** – [LinkedIn](https://www.linkedin.com/in/adam-p%C5%82onkiewicz-762ab124a/)
 
 ## Technologies
 
